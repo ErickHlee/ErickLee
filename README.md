@@ -15,7 +15,6 @@ O meu maior desejo como um desenvolvedor é aprender a desenvolver jogos e aplic
     <img align="left" alt="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
     <img align="left" alt="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
     <img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-
 </p>
 
 #
@@ -25,5 +24,7 @@ O meu maior desejo como um desenvolvedor é aprender a desenvolver jogos e aplic
     <img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
 </p>
+
+#
 
 ![ErickHlee's Stats](https://github-readme-stats.vercel.app/api?username=ErickHlee&theme=cobalt&show_icons=true&hide_border=true&count_private=false)
