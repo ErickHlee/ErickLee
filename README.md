@@ -28,6 +28,5 @@ O meu maior desejo como um desenvolvedor é aprender a desenvolver jogos e aplic
 </p>
 
 #
----
 
 ![ErickHlee's Stats](https://github-readme-stats.vercel.app/api?username=ErickHlee&theme=cobalt&show_icons=true&hide_border=true&count_private=false)
